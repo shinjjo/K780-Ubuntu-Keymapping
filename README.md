@@ -9,7 +9,7 @@ Logitech K780 Keyboard replaces function keys(F1-F12) with [hot keys + media key
 For those who are accustomed to use function keys, it may be a huge inconvenience.</br>
 Logitech currently(Aug 2019) does not support any offcial linux application(and perhaps they are not willing to!).</br>
 
-This is to invert from **[Hot keys + Media keys]** to **function keys(F4-F12)** whenever you startup your computer. 
+This is to invert from **[Hot keys + Media keys]** to **function keys(F4-F12)** whenever you start up your computer. 
 
 * This shell script was tested in **Ubuntu**(can work in other linux versions if they have xmodmap) only
 * Function keys inverted are only [F4 to F12] (F1, F2, F3 have not been inverted)
