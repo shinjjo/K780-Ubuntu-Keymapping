@@ -11,7 +11,7 @@ Logitech currently(Aug 2019) does not support any offcial linux application(and 
 
 This is to invert from **[Hot keys + Media keys]** to **function keys(F4-F12)** whenever you start up your computer. 
 
-* This shell script was tested in **Ubuntu**(can work in other linux versions if they have xmodmap) only
+* This shell script was tested in **Ubuntu** (18.04)(can work in other linux versions if they have xmodmap) only
 * Function keys inverted are only [F4 to F12] (F1, F2, F3 have not been inverted)
 
 ---
