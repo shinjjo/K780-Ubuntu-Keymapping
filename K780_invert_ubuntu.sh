@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+sleep 4
+xmodmap -e "keycode 180 = F4"
+xmodmap -e "keycode 70 = XF86HomePage"
+xmodmap -e "keycode 135 = F5"
+xmodmap -e "keycode 71 = Menu"
+xmodmap -e "keycode 166 = F6"
+xmodmap -e "keycode 72 = XF86Back"
+xmodmap -e "keycode 173 = F7"
+xmodmap -e "keycode 73 = XF86AudioPrev"
+xmodmap -e "keycode 172 = F8"
+xmodmap -e "keycode 74 = XF86AudioPlay"
+xmodmap -e "keycode 171 = F9"
+xmodmap -e "keycode 75 = XF86AudioNext"
+xmodmap -e "keycode 121 = F10"
+xmodmap -e "keycode 76 = XF86AudioMute"
+xmodmap -e "keycode 122 = F11"
+xmodmap -e "keycode 95 = XF86AudioLowerVolume"
+xmodmap -e "keycode 123 = F12"
+xmodmap -e "keycode 96 = XF86AudioRaiseVolume"
+
