@@ -13,7 +13,7 @@ This is to invert from **[Hot keys + Media keys]** to **function keys(F4-F12)** 
 
 * This shell script was tested in **Ubuntu** (18.04) only
 * May work in other linux versions if they have xmodmap
-* Function keys inverted are only [F4 to F12] (F1, F2, F3 have not been inverted)
+* Function keys inverted are only [F4 to F12] **(F1, F2, F3 have not been inverted)**
 
 ---
 
