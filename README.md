@@ -17,6 +17,7 @@ This is to invert from **[Hot keys + Media keys]** to **function keys(F4-F12)** 
 ---
 
 <h2> How to use </h2>
+
 1. Download [K780_invert_ubuntu.sh](https://github.com/shinjjo/K780-Ubuntu-Keymapping/blob/master/K780_invert_ubuntu.sh)
 2. Launch [Startup Applications] in ubuntu  
 3. Browse your computer and select [K780_invert_ubuntu.sh] and save it. 
